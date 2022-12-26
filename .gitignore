@@ -1,0 +1,5 @@
+data/
+model.h5
+model_with_dropout.h5
+alex.h5
+model.h5
