@@ -4,6 +4,7 @@ Classifying buildings post-Hurricane
 - looked into the problem set
 - looked at the data
 
-Models tried till now: (vall acc)
-- normall CNN: 0.9570
-- with droput: 0.9630
+Models tried till now: (test acc)
+- normall CNN: 0.9660000205039978
+- with droput: 0.9629999995231628
+- with alexnet like structure: 0.9390000104904175
